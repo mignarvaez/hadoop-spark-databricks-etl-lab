@@ -1,0 +1,10 @@
+Assistants	62
+Automation	2
+Learning	5
+Predictive	54
+Processing	8
+Recognition	4
+Recommendation	16
+Robotics	61
+Speech	18
+Vision	66
